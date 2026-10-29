@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43721947346",
+    "project_id": "lays-watch",
+    "storage_bucket": "lays-watch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43721947346:android:adf9db9839b8122f43950b",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWYxXfULDi3rP2ORTC1c9jf-3Ew15xaZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
